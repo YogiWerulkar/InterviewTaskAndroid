@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodAndClothParadies</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+</resources>
